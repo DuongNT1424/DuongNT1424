@@ -27,17 +27,25 @@ Java 17, Spring Boot, Thymeleaf, SQL Server.
 - Built the admin back office: revenue dashboard; book, category, user, order and voucher management
 - Built cart, checkout and the order-status flow that deducts stock on confirm and restores it on cancel
 
+**[ViDa Bioleather](https://github.com/DuongNT1424/vida-bioleather)** — e-commerce site for SCOBY bioleather products *(startup team of 5, CTO, sole developer)* · [Live site](https://vida-bioleather.vercel.app/)
+Next.js 14, MongoDB Atlas, Tailwind CSS, Zustand, deployed on Vercel.
+- Built JWT authentication (httpOnly cookies, bcrypt) with Admin and Customer roles
+- Built cart, checkout and an order workflow; customers can review a product only after buying it
+- Built QR codes for product lookup and authenticity checks, plus an admin dashboard for products, orders and users
+- Upgraded from **[v1](https://github.com/DuongNT1424/ViDa-Scoby)**, a React + TypeScript and Express product site with QR lookup
+
 ---
 
 ### 🛠️ Tech stack
 
 | | |
 |---|---|
-| **Languages** | C#, Java, Python, SQL, JavaScript |
-| **Backend** | ASP.NET Core, Entity Framework Core, Spring Boot, Spring Data JPA, REST APIs, microservices, YARP |
+| **Languages** | C#, Java, Python, SQL, JavaScript, TypeScript |
+| **Backend** | ASP.NET Core, Entity Framework Core, Spring Boot, Spring Data JPA, Node.js, Express, REST APIs, microservices, YARP |
+| **Frontend** | Next.js, React, Tailwind CSS, Thymeleaf |
 | **AI / ML** | Hugging Face Transformers, LoRA / QLoRA fine-tuning, RAG with ChromaDB, Gemini API |
-| **Data** | SQL Server |
-| **Tools** | Docker, Docker Compose, Git, GitHub, Maven |
+| **Data** | SQL Server, MongoDB |
+| **Tools** | Docker, Docker Compose, Git, GitHub, Maven, Vercel |
 
 ---
 
