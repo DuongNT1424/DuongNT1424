@@ -22,12 +22,12 @@ Built the invoice generation and export module for a ferry ticketing system.
 - Built CV–JD matching (0–100 score with matched and missing skills)
 - Built the payment service with VNPay (order, Return and IPN callbacks, credit packages)
 
-**[BookNest](https://github.com/DuongNT1424/Bookstore)** — online bookstore *(team of 3)*
+**[BookNest](https://github.com/DuongNT1424/Bookstore)** — online bookstore *(course project, team of 3)*
 Java 17, Spring Boot, Thymeleaf, SQL Server.
 - Built the admin back office: revenue dashboard; book, category, user, order and voucher management
 - Built cart, checkout and the order-status flow that deducts stock on confirm and restores it on cancel
 
-**[ViDa Bioleather](https://github.com/DuongNT1424/vida-bioleather)** — e-commerce site for SCOBY bioleather products *(startup team of 5, CTO, sole developer)* · [Live site](https://vida-bioleather.vercel.app/)
+**[ViDa Bioleather](https://github.com/DuongNT1424/vida-bioleather)** — e-commerce site for SCOBY bioleather products *(course project, team of 5 — CTO role, sole developer)* · [Live site](https://vida-bioleather.vercel.app/)
 Next.js 14, MongoDB Atlas, Tailwind CSS, Zustand, deployed on Vercel.
 - Built JWT authentication (httpOnly cookies, bcrypt) with Admin and Customer roles
 - Built cart, checkout and an order workflow; customers can review a product only after buying it
