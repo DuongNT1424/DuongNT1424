@@ -34,17 +34,24 @@ Next.js 14, MongoDB Atlas, Tailwind CSS, Zustand, deployed on Vercel.
 - Built QR codes for product lookup and authenticity checks, plus an admin dashboard for products, orders and users
 - Upgraded from **[v1](https://github.com/DuongNT1424/ViDa-Scoby)**, a React + TypeScript and Express product site with QR lookup
 
+**[BioPestControl](https://github.com/DuongNT1424/PRM393_BioPestControl)** — Flutter app for an agricultural supply store *(course project, team of 5)*
+Flutter, BLoC, Clean Architecture, Firebase Auth, Cloud Firestore, SQLite, payOS.
+- Built real-time chat between customers and staff with Firestore listeners
+- Built chemical safety management: search and filter for all roles, CRUD for Admin
+- Built the store map with OpenStreetMap: location search, nearby stores and driving directions (Nominatim, OSRM)
+
 ---
 
 ### 🛠️ Tech stack
 
 | | |
 |---|---|
-| **Languages** | C#, Java, Python, SQL, JavaScript, TypeScript |
+| **Languages** | C#, Java, Python, SQL, JavaScript, TypeScript, Dart |
 | **Backend** | ASP.NET Core, Entity Framework Core, Spring Boot, Spring Data JPA, Node.js, Express, REST APIs, microservices, YARP |
 | **Frontend** | Next.js, React, Tailwind CSS, Thymeleaf |
+| **Mobile** | Flutter, BLoC, Firebase (Auth, Firestore) |
 | **AI / ML** | Hugging Face Transformers, LoRA / QLoRA fine-tuning, RAG with ChromaDB, Gemini API |
-| **Data** | SQL Server, MongoDB |
+| **Data** | SQL Server, MongoDB, SQLite |
 | **Tools** | Docker, Docker Compose, Git, GitHub, Maven, Vercel |
 
 ---
